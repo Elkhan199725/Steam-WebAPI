@@ -1,0 +1,12 @@
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\bin\Debug\net8.0\SteamApplication.deps.json
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\bin\Debug\net8.0\SteamApplication.dll
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\bin\Debug\net8.0\SteamApplication.pdb
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\obj\Debug\net8.0\SteamApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\obj\Debug\net8.0\SteamApplication.AssemblyInfoInputs.cache
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\obj\Debug\net8.0\SteamApplication.AssemblyInfo.cs
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\obj\Debug\net8.0\SteamApplication.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\obj\Debug\net8.0\SteamApplication.sourcelink.json
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\obj\Debug\net8.0\SteamApplication.dll
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\obj\Debug\net8.0\refint\SteamApplication.dll
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\obj\Debug\net8.0\SteamApplication.pdb
+C:\Users\Elkhan Mammadli\source\repos\SteamApp\src\SteamCore\SteamApplication\obj\Debug\net8.0\ref\SteamApplication.dll
